@@ -1,12 +1,19 @@
 /* PROJECT: India MSME Impact Evaluation (RAMP)
 AUTHOR: Pooja
-PURPOSE: Executes the full pipeline from raw data to final analysis.
+PURPOSE: Executes the full pipeline using separate folders.
 */
 
-* 1. Run Data Audit and Cleaning
+clear all
+set more off
+
+* 1. Run Data Audit and Cleaning 
+* (Points to the 'Cleaning' folder)
 do "Cleaning/01_Baseline_Audit.do"
 
-* 2. Run National Growth Analysis
-do "Analysis/03_National_MSME_Analysis.do"
+* 2. Run Impact Evaluation Analysis
+* (Points to the 'Analysis' folder)
+do "05_Impact_Evaluation_Regressions.do"
 
-display "Pipeline successfully executed."
+display "******************************************"
+display "PROJECT PIPELINE SUCCESSFULLY EXECUTED"
+display "******************************************"
