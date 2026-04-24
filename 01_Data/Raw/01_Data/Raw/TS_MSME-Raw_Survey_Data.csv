@@ -1,0 +1,21 @@
+firm_id,district,owner_name,revenue_monthly,loan_amount,duration_min,survey_date
+1001,Hyderabad,K. Lakshmi,45000,100000,45,2026-03-01
+1002, rangareddy,P. Srinivas,12000,NA,8,01/03/26
+1003,MEDCHAL,Syed Ahmed,-500,50000,32,2026-03-02
+1004,Hyderabad,K. Lakshmi,45000,100000,42,2026-03-01
+1005,Nalgonda,M. Rani,85000000,250000,55,2026-03-02
+1006,Warangal,J. Reddy,Unknown,75000,12,2026-03-03
+1007,ADILABAD ,S. Rao,22000,0,4,2026-03-03
+1008,Khammam,G. Kishor,31000,40000,38,03-04-2026
+1009,Karimnagar,B. Anitha,15000$,20000,25,2026/03/04
+1010,Mahbubnagar,V. Kumar,.,.,2,2026-03-04
+1011, Nizamabad,R. Begum,28000,50000,41,2026-03-05
+1012,HYDERABAD,T. Singh,33000,10000,36,2026-03-05
+1013,sangareddy,A. Kumar,42000,80000,15,2026-03-06
+1014,Siddipet,D. Vyas,NULL,30000,45,2026-03-06
+1015,Jagtial,K. Devi,18000,20000,9,2026-03-07
+1016,Mancherial,P. Raj,25000,MISSING,33,2026-03-07
+1017,Vikarabad,L. Nayak,-200,15000,28,2026-03-08
+1018,Wanaparthy,M. Goud,35000,50000,5,2026-03-08
+1019,yadadri,S. Varma,29000,40000,39,2026-03-09
+1020,Nirmal,B. Rao,5000000,100000,52,2026-03-09
